@@ -5,7 +5,6 @@ layout: col-sidebar
 title: OWASP Oakland County, MI
 tags: tags: participation-tag sponsorship-tag
 
-level: 0
 
 region: North America
 meetup-group: OWASP-Oakland-County-Chapter
