@@ -1,15 +1,17 @@
 ---
 
 layout: col-sidebar
-
-title: OWASP Oakland County, MI
-tags: tags: participation-tag sponsorship-tag
-
-
+title: OWASP Oakland County
+site_side: true
+tags:
+level: 3
 region: North America
-meetup-group: OWASP-Oakland-County-Chapter
+currency: usd
+altfooter: true
+meetup-group: OWASP-Oakland-County-Meetup
 country: USA
 postal-code: 48033
+
 
 ---
 <img src="assets/images/owasp_oc.jpg" width="300" />
