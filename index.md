@@ -8,7 +8,7 @@ level: 3
 region: North America
 currency: usd
 altfooter: true
-meetup-group: OWASP-Oakland-County-Meetup
+meetup-group: OWASP-Oakland-County-Chapter
 country: USA
 postal-code: 48033
 
