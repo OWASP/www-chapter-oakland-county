@@ -40,13 +40,6 @@ We would like to thank the follow companies and orgnizations in all that they do
 We have meetings The second Thursday of Febuary, May, August and November. 
 https://www.meetup.com/OWASP-Oakland-County-Chapter/events
 
-## Upcoming Events
-
-**Title:** TBA <br />
-**Presenter:**TBA <br />
-**When:** Thursday, May 13, 2021 7PM <br />
-**Where** Register on our meetup; page to get the zoom meeting link https://www.meetup.com/OWASP-Oakland-County-Chapter/events/277503002/ 
-
 <blockquote>
 
 </blockquote>
