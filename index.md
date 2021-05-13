@@ -29,7 +29,7 @@ We would like to thank the follow companies and orgnizations in all that they do
 <table class="sponsors-table">
     <tr>
         <td> <a href="https://www.misec.us/"> <img src="assets/images/misec.png" alt="Misec" title="Misec"/> </a> </td>
-        <td> <a href="https://www.teksystems.com/"> <img src="assets/images/teksystems.png" alt="TEKsystems" title="TEKsystems"/> </a> </td>
+        <td> <a href="https://www.teksystems.com/"> <img src="assets/images/uberether.png" alt="TEKsystems" title="TEKsystems"/> </a> </td>
     </tr>
 </table>
 
