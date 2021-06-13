@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Brad McMahon]
-* [Steven Legg]
+* [Bradley McMahon](mailto:bradley.mcmahon@owasp.org)
+* [Steven Legg](mailto:steven.legg@owasp.org)
