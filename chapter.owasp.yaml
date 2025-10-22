@@ -1,0 +1,29 @@
+community:
+  - name: chapter-oaklandcounty
+    platform: slack
+    url: https://owasp.slack.com/archives/CE7GFHY7K
+    description: Oakland County, mi chapter
+currency: USD
+leaders:
+  - name: Bradley McMahon
+    email: bradley.mcmahon@owasp.org
+  - name: Steven Legg
+    email: steven.legg@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: North America
+  postal_code: '48033'
+  latitude: 39.0040146
+  longitude: -94.432802
+meetup_group: OWASP-Oakland-County-Chapter
+name: OWASP Oakland County
+repositories:
+  - name: www-chapter-oakland-county
+    url: https://github.com/OWASP/www-chapter-oakland-county
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-oakland-county
